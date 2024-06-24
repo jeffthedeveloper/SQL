@@ -1,0 +1,9 @@
+SELECT
+  customer_id,
+  name,
+  age,
+  location,
+  insurance_type,
+  claims_history
+FROM
+  customers
