@@ -269,7 +269,3 @@ FROM Gastos
 GROUP BY categoria;
 
 
----
-
-👉 Quer que eu também adicione um **índice (sumário interativo com links clicáveis)** no topo do README para facilitar a navegação entre os scripts?
-
